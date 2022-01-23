@@ -1,1 +1,1 @@
-# Hotel-API
+# hotel
