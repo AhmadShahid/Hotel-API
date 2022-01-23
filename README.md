@@ -26,8 +26,11 @@ Follow these steps to get your development environment set up:
      ```
   4. launch the back end by running:
      ```
-	 dotnet run
+	 dotnet run --project .\UFynd.API\
 	 ```
+  5. Test the project by running:
+     ```
+     dotnet test
   	 
   5. Launch [https://localhost:7041/swagger/](https://localhost:7041/swagger) in your browser to view the API
 
